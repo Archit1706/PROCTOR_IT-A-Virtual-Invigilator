@@ -54,9 +54,9 @@ FEATURES
 
 
 HOW TO RUN
-Step 1: Feed the SQL queries in the MySQL Command Line Client one by one from the MYSQLQueries folder uploaded.
-Step 2: Run the run.py file
-Step 3: Explore😉
+1: Feed the SQL queries in the MySQL Command Line Client one by one from the MYSQLQueries folder uploaded.
+2: Run the run.py file
+3: Explore😉
 
 NOTE ***This project is still in the process of making***
 
