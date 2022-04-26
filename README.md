@@ -40,7 +40,7 @@ An Application that detects face before start of the exam and keeps track of eye
 </p>
 
 
-Technologies Used
+TECHNOLOGIES USED
 1) Python - Python is a programming language that lets you work quickly and integrate systems more effectively.
 2) OpenCV is a Python library that is designed to solve computer vision problems.
 3) AI Libraries: NumPy, Haar-Caascade files, MatplotLib
@@ -51,6 +51,11 @@ FEATURES
 2) FACIAL RECOGNITION: Recognizes faces and no. of people around
 3) DETECTS CHEATING: Blocks Exam on detecting cheating
 4) TRAINS DATA: Takes sample photos of the student and trains the classifier
+
+HOW TO RUN:
+Step 1: Feed the SQL queries in the MySQL Command Line Client one by one from the MYSQLQueries folder uploaded.
+Step 2: Run the run.py file
+Step 3: Explore😉
 
 NOTE ***This project is still in the process of making***
 
