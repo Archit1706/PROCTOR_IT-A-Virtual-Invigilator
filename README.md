@@ -31,6 +31,14 @@ An Application that detects face before start of the exam and keeps track of eye
   <img src="./Sample Project Images/quizAndProctor.png" alt="Quiz-along-with-Proctoring-Page" width="80%" />
 </p>
 
+<p align="center">
+  <img src="./Sample Project Images/score.png" alt="Score" width="80%" />
+</p>
+
+<p align="center">
+  <img src="./Sample Project Images/aboutPage.jpg" alt="About-Us-Page" width="80%" />
+</p>
+
 
 Technologies Used
 1) Python - Python is a programming language that lets you work quickly and integrate systems more effectively.
