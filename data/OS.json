@@ -1,0 +1,79 @@
+{
+  "question": [
+    "Q1. Which of the following are CPU scheduling algorithms?",
+    "Q2. A process which is copied from main memory to secondary memory on the basis of requirement is known as -",
+    "Q3. A systematic procedure for moving the CPU to new process is known as-",
+    "Q4. UNIX is written in which language?",
+    "Q5. Which of the following schedules threads?",
+    "Q6. Main memory of a computer system is?",
+    "Q7. Device driver required in?",
+    "Q8. Which of the following commands in UNIX is used to send a signal?",
+    "Q9. Identify the two steps of a process execution.",
+    "Q10. A binary semaphore has a value of?"
+  ],
+  "answer": [
+    4,
+    1,
+    4,
+    3,
+    2,
+    2,
+    3,
+    2,
+    1,
+    1
+  ],
+  "options": [
+
+    ["Priority Scheduling",
+      "Round Robin",
+      "Shortest Job First",
+      "All"
+    ],
+    ["Demand Paging",
+      "Paging",
+      "Threads",
+      "Segmentation"
+    ],
+    ["Synchronization",
+      "Deadlock",
+      "Starvation",
+      "Context Switching"
+    ],
+    ["C#",
+      "C++",
+      "C",
+      ".NET"
+    ],
+    ["Virtual Memory",
+      "Operating System",
+      "CPU",
+      "Input"
+    ],
+    ["Non-Volatile",
+      "Volatile",
+      "Restricted",
+      "Unrestricted"
+    ],
+    ["Register",
+      "Main Memory",
+      "Disk",
+      "Cache"
+    ],
+    ["send",
+      "kill",
+      "sigsend",
+      "none"
+    ],
+    ["CPU & I/O Burst",
+    "I/O and OS Burst",
+    "Memory & I/O Burst",
+    "CPU & Memory Burst"
+    ],
+    ["0",
+      "1",
+      "-1",
+      "2"
+    ]
+  ]
+}

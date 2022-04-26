@@ -1,0 +1,11 @@
+Question,Choice1,Choice2,Choice3,Choice4,Answer
+How is the 2nd element in an array accessed based on pointer notation?,*a + 2,*(a + 2),*(*a + 2),&(a + 2),2
+What function is used to append a character at the back of a string in C++?,push_back(),append(),push(),insert(),1
+"When a pop() operation is called on an empty queue, what is the condition called?",Overflow,Underflow,Syntax Error,Garbage Value,2
+Which of the following data structures can be used to implement queues?,Stack,Arrays,LinkedList,All,4
+Which of the following data structures finds its use in recursion?,Stack,Arrays,LinkedList,Queues,1
+Which of the following sorting algorithms provide the best time complexity in the worst-case scenario?,Merge Sort,Quick Sort,Bubble Sort,Selection Sort,1
+Which of the following is a Divide and Conquer algorithm?,Merge Sort,Bubble Sort,Heap Sort,Selection Sort,1
+What is the time complexity of the binary search algorithm?,O(n),O(1),O(log n),O(n^2),3
+"In a graph of n nodes and n edges, how many cycles will be present?",Exactly 1,Atmost 1,Atmost 2,Depends on the graph,1
+"In simple uniform hashing, what is the search complexity?",O(n),O(log n),O(n log n),O(1),4

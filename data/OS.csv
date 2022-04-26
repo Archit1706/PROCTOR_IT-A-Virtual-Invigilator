@@ -1,0 +1,11 @@
+Question,Choice1,Choice2,Choice3,Choice4,Answer
+Which of the following are CPU scheduling algorithms?,Priority Scheduling,Round Robin,Shortest Job First,All,4
+A process which is copied from main memory to secondary memory on the basis of requirement is known as -,Demand Paging,Paging,Threads,Segmentation,1
+A systematic procedure for moving the CPU to new process is known as-,Synchronization,Deadlock,Starvation,Context Switching,4
+UNIX is written in which language?,C#,C++,C,.NET,3
+Which of the following schedules threads?,Virtual Memory,Operating System,CPU,Input,2
+Main memory of a computer system is?,Non-Volatile,Volatile,Restricted,Unrestricted,2
+Device driver required in?,Register,Main Memory,Disk,Cache,3
+Which of the following commands in UNIX is used to send a signal?,send,kill,sigsend,none,2
+Identify the two steps of a process execution.,CPU & I/O Burst,I/O and OS Burst,Memory & I/O Burst,CPU & Memory Burst,1
+A binary semaphore has a value of?,0,1,-1,2,1
