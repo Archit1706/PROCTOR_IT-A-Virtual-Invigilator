@@ -52,7 +52,8 @@ FEATURES
 3) DETECTS CHEATING: Blocks Exam on detecting cheating
 4) TRAINS DATA: Takes sample photos of the student and trains the classifier
 
-HOW TO RUN:
+
+HOW TO RUN
 Step 1: Feed the SQL queries in the MySQL Command Line Client one by one from the MYSQLQueries folder uploaded.
 Step 2: Run the run.py file
 Step 3: Explore😉
