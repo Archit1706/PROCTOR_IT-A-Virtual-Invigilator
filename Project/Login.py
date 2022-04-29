@@ -159,8 +159,8 @@ class Login:
 
 
 # creating an instance of the class Tk()
-# root = Tk()
+root = Tk()
 # # creating an instance of the class Login()
-# obj = Login(root)
+obj = Login(root)
 # # Button(root, text="Quit", command=root.destroy).pack()
-# root.mainloop()
+root.mainloop()
