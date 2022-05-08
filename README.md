@@ -35,9 +35,9 @@ An Application that detects face before start of the exam and keeps track of eye
   <img src="./Sample Project Images/score.png" alt="Score" width="80%" />
 </p>
 
-<p align="center">
+/*<p align="center">
   <img src="./Sample Project Images/aboutPage.jpg" alt="About-Us-Page" width="80%" />
-</p>
+</p> */
 
 
 TECHNOLOGIES USED
