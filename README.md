@@ -57,8 +57,6 @@ HOW TO RUN
 2) Run the run.py file
 3) Explore😉
 
-NOTE ***This project is still in the process of making***
-
 
 
 
